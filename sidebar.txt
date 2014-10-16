@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bta:home|Door43 (bta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bta|d43-bta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bta/archive/master.zip|d43-bta.zip]]
+
+**Recent Changes**
+{{changes>ns = bta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bta|Ethnologue data]]
+
